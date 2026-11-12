@@ -32,7 +32,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: softm/realestate-data-007
-          ref: 2dc873767d0a7a6f7b3597766c3d6198b6f21e41
+          ref: 8fa0101a498369b96e58c462101b0a46aa6cd80b
           path: _frozen
           persist-credentials: false
           sparse-checkout: data/transactions
